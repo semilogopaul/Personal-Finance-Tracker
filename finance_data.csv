@@ -1,2 +1,21 @@
-Date,Amount,Category,Description
+date,amount,category,description
 20-07-2024,125.65,Income,Salary
+21-07-2024,50.00,Expense,Groceries
+22-07-2024,20.00,Expense,Transportation
+23-07-2024,200.00,Income,Freelance Work
+24-07-2024,30.00,Expense,Dining Out
+25-07-2024,100.00,Expense,Entertainment
+26-07-2024,80.00,Expense,Clothing
+27-07-2024,150.00,Expense,Utilities
+28-07-2024,75.00,Expense,Healthcare
+29-07-2024,300.00,Income,Investments
+30-07-2024,40.00,Expense,Personal Care
+31-07-2024,60.00,Expense,Education
+01-08-2024,90.00,Expense,Home Improvement
+02-08-2024,180.00,Expense,Travel
+03-08-2024,250.00,Income,Side Gig
+04-08-2024,70.00,Expense,Subscriptions
+05-08-2024,35.00,Expense,Charity
+06-08-2024,120.00,Expense,Insurance
+07-08-2024,200.00,Income,Refunds
+08-08-2024,55.00,Expense,Electronics
